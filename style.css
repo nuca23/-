@@ -1,0 +1,52 @@
+body{
+    Width:1170px;
+    Height:780px;
+    background: linear-gradient(297.24deg, #E8EFFC 8.25%,#FFFFFF 91.76%);
+    display: flex;
+}
+.red-box1{
+    Width: 298px;
+    Height:502px;
+    background: #E3004F;
+    margin-left: 400px;
+    display: flex;
+}
+.white-box{
+    Width:337px;
+    height: 572px;
+    background: #DADADA;
+   
+    background-image:url(Vector.png) ;
+   
+    
+}
+
+ h1{
+    Width: 137px;
+    height: 40px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 40px;
+    text-align: center;
+    padding-top: 45%;
+    color: #FFFFFF;
+ }
+ h3{
+    Width: 115px;
+    height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+}
+h4{
+    height: 17px;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: flex-end;
+color: #55617D;
+mix-blend-mode: normal;
+}
+
+    
